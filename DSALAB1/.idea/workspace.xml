@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SDA_lab1" targetName="SDA_lab1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc9c8879-4f3c-4471-b84a-f15e0652bf1b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1278" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectId" id="1ZyhhyWUd6iy76vfEaQUi9AUqTs" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SDA_lab1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SDA_lab1" TARGET_NAME="SDA_lab1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SDA_lab1" RUN_TARGET_NAME="SDA_lab1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc9c8879-4f3c-4471-b84a-f15e0652bf1b" name="Default Changelist" comment="" />
+      <created>1554049018164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554049018164</updated>
+      <workItem from="1554049021329" duration="1193000" />
+      <workItem from="1554106323262" duration="38000" />
+      <workItem from="1554106375920" duration="366000" />
+      <workItem from="1554121916985" duration="346000" />
+      <workItem from="1554136874736" duration="262000" />
+      <workItem from="1554226188113" duration="4000" />
+      <workItem from="1554272991622" duration="4919000" />
+      <workItem from="1554297523232" duration="4070000" />
+      <workItem from="1554311651449" duration="8000" />
+      <workItem from="1554361581002" duration="6372000" />
+      <workItem from="1555400842241" duration="39000" />
+      <workItem from="1556084509765" duration="33000" />
+      <workItem from="1556174537589" duration="371000" />
+      <workItem from="1557387881741" duration="42000" />
+      <workItem from="1557388752566" duration="17000" />
+      <workItem from="1558444963081" duration="1628000" />
+      <workItem from="1558460851233" duration="6000" />
+      <workItem from="1558461278141" duration="241000" />
+      <workItem from="1558463609903" duration="865000" />
+      <workItem from="1560424548686" duration="618000" />
+      <workItem from="1585817365104" duration="352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

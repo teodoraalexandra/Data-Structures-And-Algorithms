@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/DynamicVector.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/Node.h
+utility
+-
+vector
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SMMIterator.cpp
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SMMIterator.h
+stdexcept
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SMMIterator.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.cpp
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SMMIterator.h
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.h
+vector
+-
+utility
+-
+stdexcept
+-
+DynamicVector.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/DynamicVector.h
+Node.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/Node.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/main.cpp
+iostream
+-
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/SMMIterator.h
+assert.h
+-
+exception
+-
+algorithm
+-
+vector
+-
+

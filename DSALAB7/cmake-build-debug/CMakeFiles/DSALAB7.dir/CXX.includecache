@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/BSTNode.cpp
+BSTNode.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/BSTNode.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/BSTNode.h
+utility
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/utility
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ExtendedTest.cpp
+exception
+-
+assert.h
+-
+algorithm
+-
+vector
+-
+SortedMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMap.h
+SortedMapIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMapIterator.h
+ExtendedTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ExtendedTest.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ExtendedTest.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ShortTest.cpp
+ShortTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ShortTest.h
+SortedMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMap.h
+SortedMapIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMapIterator.h
+assert.h
+-
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ShortTest.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMap.cpp
+SortedMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMap.h
+iostream
+-
+vector
+-
+utility
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMap.h
+SortedMapIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMapIterator.h
+BSTNode.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/BSTNode.h
+vector
+-
+utility
+-
+iostream
+-
+stack
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMapIterator.cpp
+SortedMapIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMapIterator.h
+stdexcept
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMapIterator.h
+SortedMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/SortedMap.h
+BSTNode.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/BSTNode.h
+stack
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/main.cpp
+iostream
+-
+ShortTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ShortTest.h
+ExtendedTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB7/ExtendedTest.h
+

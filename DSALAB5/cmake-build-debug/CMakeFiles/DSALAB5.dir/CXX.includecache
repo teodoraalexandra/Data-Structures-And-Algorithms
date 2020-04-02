@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/DynamicArray.cpp
+DynamicArray.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/DynamicArray.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/DynamicArray.h
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/Heap.cpp
+Heap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/Heap.h
+iostream
+-
+stdexcept
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/Heap.h
+utility
+-
+vector
+-
+DynamicArray.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/DynamicArray.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/P13.cpp
+assert.h
+-
+P13.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/P13.h
+vector
+-
+algorithm
+-
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/P13.h
+Heap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/Heap.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/main.cpp
+P13.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB5/P13.h
+

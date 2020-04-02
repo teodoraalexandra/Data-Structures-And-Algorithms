@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SMMIterator.cpp
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SMMIterator.h
+stdexcept
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SMMIterator.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SortedMultiMap.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SortedMultiMap.cpp
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SMMIterator.h
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SortedMultiMap.h
+vector
+-
+utility
+-
+stdexcept
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/main.cpp
+iostream
+-
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab3/SMMIterator.h
+assert.h
+-
+exception
+-
+algorithm
+-
+vector
+-
+

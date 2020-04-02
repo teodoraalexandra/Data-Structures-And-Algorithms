@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/Bag.cpp
+BagIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/BagIterator.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/Bag.h
+DynamicArray.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/DynamicArray.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/BagIterator.cpp
+BagIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/BagIterator.h
+Bag.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/Bag.h
+exception
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/BagIterator.h
+Bag.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/Bag.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/DynamicArray.cpp
+DynamicArray.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/DynamicArray.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/DynamicArray.h
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/main.cpp
+iostream
+-
+Bag.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/Bag.h
+BagIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/SDA_lab1/BagIterator.h
+assert.h
+-
+vector
+-
+exception
+-
+

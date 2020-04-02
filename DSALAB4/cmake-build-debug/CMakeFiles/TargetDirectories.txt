@@ -1,0 +1,3 @@
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSALAB4/cmake-build-debug/CMakeFiles/DSALAB4.dir

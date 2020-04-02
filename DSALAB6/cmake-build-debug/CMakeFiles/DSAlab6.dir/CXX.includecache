@@ -1,0 +1,112 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/DynamicVector.cpp
+DynamicVector.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/DynamicVector.h
+iostream
+-
+cstring
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/DynamicVector.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ExtendedTest.cpp
+exception
+-
+assert.h
+-
+algorithm
+-
+vector
+-
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+ExtendedTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ExtendedTest.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ExtendedTest.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.cpp
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ShortTest.cpp
+ShortTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ShortTest.h
+assert.h
+-
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.h
+exception
+-
+vector
+-
+iostream
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ShortTest.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.cpp
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.h
+ValueIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ValueIterator.h
+iostream
+-
+typeinfo
+-
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+vector
+-
+utility
+-
+limits.h
+-
+DynamicVector.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/DynamicVector.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ValueIterator.cpp
+iostream
+-
+ValueIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ValueIterator.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ValueIterator.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+DynamicVector.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/DynamicVector.h
+
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/main.cpp
+unistd.h
+-
+iostream
+-
+ShortTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ShortTest.h
+ExtendedTest.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ExtendedTest.h
+SortedMultiMap.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SortedMultiMap.h
+SMMIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/SMMIterator.h
+ValueIterator.h
+/Users/teodoradan/Desktop/Facultate - Anul I/SEMESTRUL 2/SDA/for git/DSAlab6/ValueIterator.h
+

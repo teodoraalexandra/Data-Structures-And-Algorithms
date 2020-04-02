@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/DSALAB5.dir/main.cpp.o CMakeFiles/DSALAB5.dir/Heap.cpp.o CMakeFiles/DSALAB5.dir/P13.cpp.o CMakeFiles/DSALAB5.dir/DynamicArray.cpp.o  -o DSALAB5 
